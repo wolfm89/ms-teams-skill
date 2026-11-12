@@ -1,0 +1,4 @@
+interface:
+  display_name: "Microsoft Teams"
+  short_description: "Read and post Teams messages via your Power Platform connection"
+  default_prompt: "Use $ms-teams to summarize recent activity and open items in my Teams channels and chats."

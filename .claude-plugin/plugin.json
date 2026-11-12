@@ -1,0 +1,12 @@
+{
+  "name": "ms-teams",
+  "version": "0.1.0",
+  "description": "Read, search, and post Microsoft Teams messages, Adaptive Cards, and meeting transcripts/recordings through your Power Platform Teams connection — no custom Graph app registration or admin consent required.",
+  "author": {
+    "name": "Wolfgang Moser",
+    "url": "https://github.com/wolfm89"
+  },
+  "repository": "https://github.com/wolfm89/ms-teams-skill",
+  "license": "GPL-3.0-or-later",
+  "skills": "./skills/"
+}

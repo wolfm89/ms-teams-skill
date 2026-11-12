@@ -1,0 +1,13 @@
+{
+  "name": "ms-teams-skill",
+  "owner": {
+    "name": "Wolfgang Moser"
+  },
+  "plugins": [
+    {
+      "name": "ms-teams",
+      "source": "./",
+      "description": "Read, search, and post Microsoft Teams messages, Adaptive Cards, and meeting transcripts/recordings via your Power Platform Teams connection without Graph admin consent."
+    }
+  ]
+}

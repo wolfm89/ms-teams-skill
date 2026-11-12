@@ -1,0 +1,34 @@
+{
+  "name": "ms-teams",
+  "version": "0.1.0",
+  "description": "Read, search, and post Microsoft Teams messages, Adaptive Cards, and meeting transcripts/recordings through your Power Platform Teams connection — no custom Graph app registration or admin consent required.",
+  "author": {
+    "name": "Wolfgang Moser",
+    "url": "https://github.com/wolfm89"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Microsoft Teams",
+    "shortDescription": "Read, search, and post Teams messages via your Power Platform connection.",
+    "longDescription": "Read, search, and delta-sync channel threads and 1:1/group/meeting chats, inspect tabs, files, apps, sidebar sections, and online meetings (transcripts, recordings, Copilot AI insights), generate daily watchlist digests, and post, reply, edit, delete, or react to messages and Adaptive Cards with real @mentions using your Azure CLI login and Power Platform Microsoft Teams connection.",
+    "developerName": "Wolfgang Moser",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Summarize recent activity and open action items in my Teams channels and chats."
+    ]
+  },
+  "repository": "https://github.com/wolfm89/ms-teams-skill",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "microsoft-teams",
+    "teams",
+    "power-platform",
+    "microsoft-graph",
+    "agent-skill"
+  ]
+}

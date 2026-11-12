@@ -1,0 +1,18 @@
+# Local watchlists (never commit tenant, team or channel names)
+watchlist.json
+*.local.json
+
+# Python bytecode, caches & local venvs
+.venv/
+.mypy_cache/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~

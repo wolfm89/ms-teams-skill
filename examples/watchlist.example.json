@@ -1,0 +1,42 @@
+{
+  "watch": [
+    {
+      "group": "Engineering",
+      "channels": [
+        {
+          "team": "Core Engineering",
+          "names": [
+            "General",
+            "Releases",
+            "Incidents"
+          ]
+        }
+      ],
+      "subgroups": [
+        {
+          "name": "Architecture",
+          "channels": [
+            {
+              "team": "Core Engineering",
+              "names": [
+                "RFCs",
+                "Design Reviews"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group": "Organization",
+      "channels": [
+        {
+          "team": "Company Wide",
+          "names": [
+            "Announcements"
+          ]
+        }
+      ]
+    }
+  ]
+}
